@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_blue_0090FF">#0090FF</color>
+
+
+    <color name="shen_sky_blue">#dbeefb</color>
+    <color name="white">#ffffffff</color>
+
+    <color name="blue">#4c56cc</color>
+    <color name="gray">#C7C7C7</color>
+
+    <color name="float_transparent">#00000000</color>
+</resources>
